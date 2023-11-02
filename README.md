@@ -7,7 +7,7 @@ potential in the field of web technologies and express my innovative creative sk
 - 💞️ I’m looking to collaborate on laravel vue js project
 
 <h2>Connect With Me</h2>
-<a href="https://nasimuddin.dev">Website</a>
+<a href="http://nasimuddin.xyz/" target="blank">Website</a>
 <a href="https://facebook.com/nasimahmed.eng">FB</a>
 <!---
 Nasim25/Nasim25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
