@@ -23,7 +23,7 @@
 
 <p>I am a passionate Web Developer with a huge love for PHP, Laravel, Vue js, and TailwindCSS. I also possess basic knowledge and study game and Android app development. My vision is to gain confidence and fame using my potential in the field of web technologies and express my innovative creative skills for myself and my company.</p>
 </br>
-- Currently, I'm working as a software engineer in a Private Company ( <a href="https://luminouslabsbd.com/">Luminous Labs</a> )</br>
+- Currently, I'm working as a software engineer at <a href="https://luminouslabsbd.com/">Luminous Labs</a></br>
 - I'm a former web developer at <a href="https://baitsbd.com/">BAITSBD</a> </br
 - 👀 I’m interested in coding and playing games </br>
 - 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity. </br>
