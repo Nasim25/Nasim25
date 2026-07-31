@@ -18,7 +18,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-<p>I am a passionate Web Developer with a huge love for PHP, Laravel, Vue js, and TailwindCSS. I also possess basic knowledge and study game and Android app development. My vision is to gain confidence and fame using my potential in the field of web technologies and express my innovative creative skills for myself and my company.</p>
+<p>I am a passionate Web Developer with a huge love for PHP, Laravel, Vue js, react js, and TailwindCSS. I also possess basic knowledge and study game and Android app development. My vision is to gain confidence and fame using my potential in the field of web technologies and express my innovative creative skills for myself and my company.</p>
 </br>
 - Currently, I'm working as a software engineer at <a href="https://syntechbd.com/">Syntech solution ltd</a></br>
 - I'm a former software engineer at <a href="https://luminouslabsbd.com/">Luminous Labs</a> </br>
