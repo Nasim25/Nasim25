@@ -25,7 +25,7 @@
 - I'm a former web developer at <a href="https://baitsbd.com/">BAITSBD</a> </br>
 - 👀 I’m interested in coding and playing games </br>
 - 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity. </br>
-- 💞️ I’m looking to collaborate on laravel vue js project
+- 💞️ I’m looking to collaborate on laravel, vue js projects
 
 <h2>Connect With Me</h2>
 <a href="https://facebook.com/nasimahmed.eng">Facebook</a>
